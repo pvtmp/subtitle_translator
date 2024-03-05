@@ -36,6 +36,3 @@ input_file_path = '1.en.srt'
 output_file_path = 'translated_subtitle_file.srt'
 
 translate_subtitle(input_file_path, output_file_path)
-
-
-Code By Tharindu
